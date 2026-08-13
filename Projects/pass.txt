@@ -1,0 +1,5 @@
+Admin: username=admin, password=admin123
+
+Student: username=student1, password=student123
+
+teacher: teacher@university.edu password =teacher123
